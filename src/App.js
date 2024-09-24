@@ -1,6 +1,6 @@
 
 import './App.css';
-import Board from './components/BoardComponent/Board'
+import Board from './Board'
 
 function App() {
   return (
